@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/prathamesh-portfolio/static/css/main.7c2b052b.css",
-    "main.js": "/prathamesh-portfolio/static/js/main.9ce6f1e3.js",
+    "main.js": "/prathamesh-portfolio/static/js/main.cc91be1c.js",
     "static/js/787.e162ade6.chunk.js": "/prathamesh-portfolio/static/js/787.e162ade6.chunk.js",
     "static/media/website-coding-2.jpg": "/prathamesh-portfolio/static/media/website-coding-2.e1b5481b89e3782d526c.jpg",
     "static/media/website-coding-4.jpg": "/prathamesh-portfolio/static/media/website-coding-4.b6343807344d7bc78ba4.jpg",
@@ -17,11 +17,11 @@
     "static/media/blog-02.jpg": "/prathamesh-portfolio/static/media/blog-02.b8e7b78d8918aa403dc9.jpg",
     "index.html": "/prathamesh-portfolio/index.html",
     "main.7c2b052b.css.map": "/prathamesh-portfolio/static/css/main.7c2b052b.css.map",
-    "main.9ce6f1e3.js.map": "/prathamesh-portfolio/static/js/main.9ce6f1e3.js.map",
+    "main.cc91be1c.js.map": "/prathamesh-portfolio/static/js/main.cc91be1c.js.map",
     "787.e162ade6.chunk.js.map": "/prathamesh-portfolio/static/js/787.e162ade6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c2b052b.css",
-    "static/js/main.9ce6f1e3.js"
+    "static/js/main.cc91be1c.js"
   ]
 }
