@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/prathamesh-portfolio/static/css/main.7c2b052b.css",
-    "main.js": "/prathamesh-portfolio/static/js/main.cc91be1c.js",
+    "main.js": "/prathamesh-portfolio/static/js/main.c3d7b371.js",
     "static/js/787.e162ade6.chunk.js": "/prathamesh-portfolio/static/js/787.e162ade6.chunk.js",
     "static/media/website-coding-2.jpg": "/prathamesh-portfolio/static/media/website-coding-2.e1b5481b89e3782d526c.jpg",
     "static/media/website-coding-4.jpg": "/prathamesh-portfolio/static/media/website-coding-4.b6343807344d7bc78ba4.jpg",
@@ -9,19 +9,19 @@
     "static/media/website-coding-3.jpg": "/prathamesh-portfolio/static/media/website-coding-3.b3fbf51a03a3c226a817.jpg",
     "static/media/website-coding-1.jpg": "/prathamesh-portfolio/static/media/website-coding-1.978fd2b15a4f008ff1a7.jpg",
     "static/media/website-coding-6.jpg": "/prathamesh-portfolio/static/media/website-coding-6.d642688564ac3ad8b1b4.jpg",
+    "static/media/banner-image.png": "/prathamesh-portfolio/static/media/banner-image.deb824c4101eab974434.png",
     "static/media/blog-01.jpg": "/prathamesh-portfolio/static/media/blog-01.d4d17c619b49e67fc875.jpg",
-    "static/media/banner-image.png": "/prathamesh-portfolio/static/media/banner-image.ba655c387aab22316c5d.png",
+    "static/media/logo-06.png": "/prathamesh-portfolio/static/media/logo-06.0f2ce22825d497c19495.png",
     "static/media/contact1.png": "/prathamesh-portfolio/static/media/contact1.8ddfbfd11798f881db54.png",
-    "static/media/logo-06.png": "/prathamesh-portfolio/static/media/logo-06.148dfd571235cda9a7f8.png",
     "static/media/blog-03.jpg": "/prathamesh-portfolio/static/media/blog-03.d690c7906596e67ab3d8.jpg",
     "static/media/blog-02.jpg": "/prathamesh-portfolio/static/media/blog-02.b8e7b78d8918aa403dc9.jpg",
     "index.html": "/prathamesh-portfolio/index.html",
     "main.7c2b052b.css.map": "/prathamesh-portfolio/static/css/main.7c2b052b.css.map",
-    "main.cc91be1c.js.map": "/prathamesh-portfolio/static/js/main.cc91be1c.js.map",
+    "main.c3d7b371.js.map": "/prathamesh-portfolio/static/js/main.c3d7b371.js.map",
     "787.e162ade6.chunk.js.map": "/prathamesh-portfolio/static/js/787.e162ade6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c2b052b.css",
-    "static/js/main.cc91be1c.js"
+    "static/js/main.c3d7b371.js"
   ]
 }
